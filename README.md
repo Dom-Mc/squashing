@@ -1,2 +1,2 @@
 # squashing
-another edit after first merge!
+final edit on new branch
